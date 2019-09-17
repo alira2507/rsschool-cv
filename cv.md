@@ -19,3 +19,11 @@
 5. **Databases**: basic knowledge of MySQL.
 6. **OS**: Windows, Linux, iOS, Android
 7. **Tools**: Fiddler, Postman, Zendesk, Asana, Charles.
+
+## Education
+Year | Education
+----- | ------
+Sep, 2019 | RS School Course
+Sep, 2019 | [Codeacademy.com](https://www.codecademy.com/users/alira2507/achievements) HTML and CSS courses
+Aug 2018- Oct 2018 | It-Academy, Software Testing
+2009-2014 | MSLU, translator and interpreter (Italian and English)
