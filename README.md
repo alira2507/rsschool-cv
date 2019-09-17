@@ -1,2 +1,1 @@
-# rsschool-cv
-My repository for the tasks in the RS School
+https://alira2507.github.io/rsschool-cv/cv
