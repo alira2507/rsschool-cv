@@ -23,7 +23,7 @@
 ## Education
 
 Year | Education
------ | ------
+---- | ---------
 Sep, 2019 | RS School Course
 Sep, 2019 | [Codeacademy.com](https://www.codecademy.com/users/alira2507/achievements) HTML and CSS courses
 Aug 2018- Oct 2018 | It-Academy, Software Testing
@@ -32,7 +32,7 @@ Aug 2018- Oct 2018 | It-Academy, Software Testing
 ## Work experience
 
 Year | Job
------ | ------
+---- | ---
 Sep 2019 | RS School Course, academic projects
 Mar 2019 - till now | Klika-Tech, LLC., Software testing specialist
 Nov 2015- Mar 2019 | Meca Soft International, Client Support Agent
@@ -40,7 +40,7 @@ Nov 2015- Mar 2019 | Meca Soft International, Client Support Agent
 ## Language skills
 
 Language | Level
------ | ------
+-------- | -----
 English | B2+-C1
 Italian | C1
 Polish | B2+-C1
