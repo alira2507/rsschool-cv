@@ -10,3 +10,12 @@
 *	Interest for frontend development
 *	Experience in team work
 *	Strong language skills and analytical skills
+
+## Skills
+1. **Programming Languages**: HTML, CSS, basic JavaScript
+2. **Automation Test Tools**: Selenium.
+3. **Test Management:** TestRail.
+4. **Bug tracking systems:** Jira, Mantis.
+5. **Databases**: basic knowledge of MySQL.
+6. **OS**: Windows, Linux, iOS, Android
+7. **Tools**: Fiddler, Postman, Zendesk, Asana, Charles.
