@@ -27,3 +27,10 @@ Sep, 2019 | RS School Course
 Sep, 2019 | [Codeacademy.com](https://www.codecademy.com/users/alira2507/achievements) HTML and CSS courses
 Aug 2018- Oct 2018 | It-Academy, Software Testing
 2009-2014 | MSLU, translator and interpreter (Italian and English)
+
+## Work experience
+Year | Education
+----- | ------
+Sep 2019 | RS School Course, academic projects
+Mar 2019 - till now | Klika-Tech, LLC., Software testing specialist
+Nov 2015- Mar 2019 | Meca Soft International, Client Support Agent
