@@ -1,0 +1,50 @@
+img {
+    display: block;
+    width: 200px;
+    margin: 0 auto;
+}
+
+h1,
+h2 {
+    color: #3d68a1;
+}
+h1 {
+    text-align: center;
+}
+header {
+    margin: 0;
+    padding: 20px 20px;
+}
+
+header,
+main {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #c3d4eb;
+}
+main {
+    padding: 20px 20px;
+}
+a {
+    text-decoration: none;
+    color: #3d68a1;
+}
+p {
+    margin: 0;
+    padding: 0;
+}
+table,
+th,
+td {
+    border: 1px solid #3d68a1;
+    padding: 5px 5px;
+    background-color: whitesmoke;
+  }
+  table {
+    border-collapse: collapse;
+  }
+  th {
+      color: #3d68a1;
+      font-weight: 700;
+  }
+  
